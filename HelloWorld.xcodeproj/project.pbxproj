@@ -263,8 +263,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = M6C8WHQ7JX;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.satomi.yokoyama.HelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.satomi.yokoyama;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -276,8 +277,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = M6C8WHQ7JX;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.satomi.yokoyama.HelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.satomi.yokoyama;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
